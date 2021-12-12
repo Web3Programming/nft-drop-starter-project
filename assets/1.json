@@ -1,0 +1,19 @@
+{
+    "name": "Mikasa",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "6yVXVphh9LJ1hApLZxaS1n429g7JScd2K7UPnda8ti3X",
+          "share": 100
+        }
+      ]
+    }
+  }
